@@ -1,0 +1,23 @@
+﻿  analyser.cpp
+d:\jason\documents\y1-4\y4s1\object programming\assignment 1\data acquisition simulator\project 1 - data acquisition simulator\dataacquisition.h(70): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\jason\documents\y1-4\y4s1\object programming\assignment 1\data acquisition simulator\project 1 - data acquisition simulator\dataacquisition.h(70): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  channel.cpp
+d:\jason\documents\y1-4\y4s1\object programming\assignment 1\data acquisition simulator\project 1 - data acquisition simulator\dataacquisition.h(70): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\jason\documents\y1-4\y4s1\object programming\assignment 1\data acquisition simulator\project 1 - data acquisition simulator\dataacquisition.h(70): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  clock.cpp
+d:\jason\documents\y1-4\y4s1\object programming\assignment 1\data acquisition simulator\project 1 - data acquisition simulator\dataacquisition.h(70): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\jason\documents\y1-4\y4s1\object programming\assignment 1\data acquisition simulator\project 1 - data acquisition simulator\dataacquisition.h(70): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  main.cpp
+d:\jason\documents\y1-4\y4s1\object programming\assignment 1\data acquisition simulator\project 1 - data acquisition simulator\dataacquisition.h(70): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\jason\documents\y1-4\y4s1\object programming\assignment 1\data acquisition simulator\project 1 - data acquisition simulator\dataacquisition.h(70): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+d:\jason\documents\y1-4\y4s1\object programming\assignment 1\data acquisition simulator\project 1 - data acquisition simulator\main.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  signal.cpp
+d:\jason\documents\y1-4\y4s1\object programming\assignment 1\data acquisition simulator\project 1 - data acquisition simulator\dataacquisition.h(70): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\jason\documents\y1-4\y4s1\object programming\assignment 1\data acquisition simulator\project 1 - data acquisition simulator\dataacquisition.h(70): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  waveform.cpp
+d:\jason\documents\y1-4\y4s1\object programming\assignment 1\data acquisition simulator\project 1 - data acquisition simulator\dataacquisition.h(70): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\jason\documents\y1-4\y4s1\object programming\assignment 1\data acquisition simulator\project 1 - data acquisition simulator\dataacquisition.h(70): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Generating Code...
+d:\jason\documents\y1-4\y4s1\object programming\assignment 1\data acquisition simulator\project 1 - data acquisition simulator\signal.cpp(23): warning C4715: 'signal::GetSample': not all control paths return a value
+  LINK : D:\Jason\Documents\Y1-4\Y4S1\Object Programming\Assignment 1\Data Acquisition Simulator\Debug\Project 1 - Data Acquisition Simulator.exe not found or not built by the last incremental link; performing full link
+  Project 1 - Data Acquisition Simulator.vcxproj -> D:\Jason\Documents\Y1-4\Y4S1\Object Programming\Assignment 1\Data Acquisition Simulator\Debug\Project 1 - Data Acquisition Simulator.exe
